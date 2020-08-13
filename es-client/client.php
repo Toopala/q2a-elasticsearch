@@ -1,11 +1,7 @@
 <?php
-    require 'vendor/autoload.php';
+require 'vendor/autoload.php';
 
 function create_es_client ( $host , $port ) {
-    $params = array ();
-    $params['hosts'] = array ( 
-	$host . ':' . $port
-    ); 	
-    $client = new Elasticsearch\Client($params);
+    $client = \Elasticsearch\ClientBuilder::create()->setHosts(["$host:$port"])->build();
     return $client;
 }

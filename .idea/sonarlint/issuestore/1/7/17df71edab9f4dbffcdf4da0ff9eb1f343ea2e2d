@@ -1,0 +1,13 @@
+
+Bphp:S121"0Add curly braces around the nested statement(s).(¬óË
+B	php:S1481"/Remove this unused "$retDelete" local variable.(ú¼»¡
+Bphp:S121"0Add curly braces around the nested statement(s).(£óÓ›
+A	php:S1481")Remove this unused "$ret" local variable.(üÃëÚùÿÿÿÿ
+F	php:S1172"3Remove the unused function parameter "$qa_content".(®É¼°
+Bphp:S121"0Add curly braces around the nested statement(s).(ÁÜ˜
+fphp:S101"TRename class "qa_elasticsearch" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(×ÙŞ˜
+N	php:S1172"/Remove the unused function parameter "$userid".(òÒáÚûÿÿÿÿ8ÎÇ«¹¼.
+T	php:S1172"5Remove the unused function parameter "$absoluteurls".(òÒáÚûÿÿÿÿ8ÎÇ«¹¼.
+S	php:S1172"4Remove the unused function parameter "$fullcontent".(òÒáÚûÿÿÿÿ8ÎÇ«¹¼.
+fphp:S107"HThis function has 10 parameters, which is greater than the 7 authorized.(ş‘Õ½ùÿÿÿÿ8ÎÇ«¹¼.
+i	php:S1142"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ÕÚ ó8ÎÇ«¹¼.
