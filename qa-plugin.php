@@ -21,9 +21,6 @@
 
 
 	qa_register_plugin_module('search', 'qa-es-admin.php', 'qa_elasticsearch', 'qa_elasticsearch');
-	//qa_register_plugin_layer('qa-es-layer.php', 'ElasticSearch Layer');	
-	//qa_register_plugin_module('module', 'qa-es-page.php', 'qa_elasticsearch_admin', 'ElasticSearch Admin');
-	
 
 /*
 	Omit PHP closing tag to help avoid accidental output

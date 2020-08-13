@@ -1,10 +1,12 @@
 <?php
 
+use Elasticsearch\Client;
+
 require_once __DIR__ . '/es-client/client.php';
 
 class qa_elasticsearch
 {
-    private $es_client;
+    private Client $es_client;
     private $es_hostname;
     private $es_port;
     private $es_index_name;
